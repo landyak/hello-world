@@ -6,4 +6,4 @@ Clone the repo at local, edit again
 Create a branch "edit-readme" and work on this branch;
 add somthing, then commit
 delete local branch, push master. then merge remote branch
-
+Input sth at home use my phone
