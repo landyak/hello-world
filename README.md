@@ -7,3 +7,4 @@ Create a branch "edit-readme" and work on this branch;
 add somthing, then commit
 delete local branch, push master. then merge remote branch
 Input sth at home use my phone
+add a python script file hello.py
