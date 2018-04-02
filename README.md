@@ -17,4 +17,4 @@ add a python script file hello.py<br>
 |yang|male|30|
 
 
-$c^2=a^2+b^2$
+
