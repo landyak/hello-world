@@ -1,6 +1,3 @@
-hello-world
-===========
-
 # hello-world<br>
 *My first repository*  
 Now I write something in the new branch, then commit ;<br>
@@ -15,6 +12,6 @@ add a python script file hello.py<br>
 
 
 |name|sex|age|
--|-|-|-
+|----|---|-|
 |wang|male|40|
 |yang|male|30|
