@@ -15,3 +15,6 @@ add a python script file hello.py<br>
 |----|---|-|
 |wang|male|40|
 |yang|male|30|
+
+
+$c^2=a^2+b^2
